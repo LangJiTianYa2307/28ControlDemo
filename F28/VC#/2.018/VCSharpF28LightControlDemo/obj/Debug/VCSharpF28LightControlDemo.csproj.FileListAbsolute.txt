@@ -1,0 +1,11 @@
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\bin\Debug\VCSharpF28LightControlDemo.exe.config
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\bin\Debug\VCSharpF28LightControlDemo.exe
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\bin\Debug\VCSharpF28LightControlDemo.pdb
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.csproj.AssemblyReference.cache
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.FormMain.resources
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.FormPara.resources
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.Properties.Resources.resources
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.csproj.GenerateResource.cache
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.exe
+C:\Users\aaa\Desktop\F28\ATEQ F28light sample code 2.018\F28\VC#\2.018\VCSharpF28LightControlDemo\obj\Debug\VCSharpF28LightControlDemo.pdb
